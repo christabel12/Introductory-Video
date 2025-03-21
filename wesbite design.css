@@ -19,6 +19,6 @@ body {
     display: table-cell;
     vertical-align: middle;
     align-content: center;
-    background-color: black;
+    background-color: rgb(60, 60, 60);
     margin-bottom: 30px;
 }
